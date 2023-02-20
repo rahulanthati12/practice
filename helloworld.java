@@ -8,3 +8,4 @@
         studentObj.policy();
         System.out.println("Hello Rahul" +
                 );
+ }}
